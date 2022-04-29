@@ -1,5 +1,5 @@
 ## Preloader em HTML, Javascript, Jquery e CSS.
-Cria um efeito de carregamento de cada página no seu site.
+Cria um efeito de carregamento de cada página no seu site, não precisa de imagem gif.
 No seu site, depois de:
 
 	<head>

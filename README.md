@@ -3,8 +3,8 @@ Cria um efeito de carregamento de cada página no seu site, não precisa de imag
 No seu site, depois de:
 
 	<head>
-    <title>Meu título</title>
 	<meta charset="utf-8" />
+    <title>Meu título</title>
   
 Adicione o seguinte:
 

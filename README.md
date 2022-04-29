@@ -1,10 +1,10 @@
-## Preloader em Javascript, Jquery e CSS.
+## Preloader em HTML, Javascript, Jquery e CSS.
 Cria um efeito de carregamento de cada página no seu site.
 No seu site, depois de:
 
 	<head>
     <title>Meu título</title>
-		<meta charset="utf-8" />
+	<meta charset="utf-8" />
   
 Adicione o seguinte:
 
